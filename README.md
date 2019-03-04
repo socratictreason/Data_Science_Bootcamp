@@ -1,4 +1,4 @@
-# A Crash course in data science, using python.
+# A Crash course in data science, using Python.
 
 ## Wine Reviews
 Learn the basics of data visualization. In this Jupyter notebook, we'll cover plotting univariate and bivariate data using pandas.
