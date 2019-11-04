@@ -4,8 +4,7 @@ Congratulations, you work at a hot, highly funded start up - FaceLyft® - a new 
 
 Your task is as follows:
 
-1) Download the open sourced data set of FB interactions here:
-https://github.com/rucogsciclub/Data_Science_Bootcamp/tree/master/Week%20Two
+1) Download the open sourced data set of FB interactions called FB_dataset.csv
 (note: You can also find it here:
  https://archive.ics.uci.edu/ml/datasets/Facebook+metrics however there are more steps required using the dataset if you download it directly. Email us for more info if you're curious).
 
