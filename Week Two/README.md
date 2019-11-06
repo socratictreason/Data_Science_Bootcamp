@@ -4,7 +4,7 @@ Congratulations, you work at a hot, highly funded start up - FaceLyft® - a new 
 
 Your task is as follows:
 
-1) Download the open sourced data set of FB interactions called FB_dataset.csv
+1) Download the open sourced data set of FB interactions called FB_dataset.csv. You can do so by clicking the file "FB_dataset.csv", then clicking the button that says "raw" in the toolbar on the next screen. That should open up the CSV file in a new tab, where you can save it directly to your computer as a CSV (File > Save Page As). 
 (note: You can also find it here:
  https://archive.ics.uci.edu/ml/datasets/Facebook+metrics however there are more steps required using the dataset if you download it directly. Email us for more info if you're curious).
 
