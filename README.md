@@ -6,8 +6,9 @@ We'll be covering a wide range of material, from how to create beautiful visuali
 You'll find some of our materials from the Fall 2019 semester in the folder Old_Material. This semester you can expect a number of updated resources.
 
 ## Weekly Syllabus:
+
 1. Curriculum Overview, Setting up your environment, and a brief intro to Python
-2. Data Visualization w/ Matplotlib and Streamlit (<a href="streamlit.io"> streamlit.io </a>)
+2. Data Visualization w/ Matplotlib and Streamlit (<a href="https://www.streamlit.io"> streamlit.io </a>)
 3. Intro to Regression
 4. Multiple Regression and How to avoid statistical pitfalls
 5. Logistic Regression (aka: Intro to machine learning)
