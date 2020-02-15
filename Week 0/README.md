@@ -1,6 +1,8 @@
 # Welcome to Week 0!
 ## Content overview:
+
 In the Week 0 slides you'll see an overview of this course, including:
+
     - Who's running this whole thing anyways?
     - What will I get out of this?
     - How do I get started?
