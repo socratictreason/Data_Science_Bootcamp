@@ -5,7 +5,6 @@ Welcome! This is a crash course in data science.
 We'll be covering a wide range of material, from how to create beautiful visualizations of your data, to some of the most popular and powerful statistical and machine learning algorithms.
 You'll find some of our materials from the Fall 2019 semester in the folder Old_Material. This semester you can expect a number of updated resources.
 
-<hr>
 ## Weekly Syllabus:
 1. Curriculum Overview, Setting up your environment, and a brief intro to Python
 2. Data Visualization w/ Matplotlib and Streamlit (<a href="streamlit.io"> streamlit.io </a>)
