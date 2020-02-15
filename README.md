@@ -1,6 +1,25 @@
-# Data_Science_Bootcamp
+# Data Science Bootcamp
+## A collaboration between Rutgers Cognitive Science and Statistics Clubs
 Welcome! This is a crash course in data science. 
-It will go through basic concepts in statistical inference and machine learning.
-Every week we'll be opening up another dataset challenge. The results of that challenge (as well as our solution) will be posted here!
 
-If you ever have any questions about the material please reach out to us at rutgerscognitivescienceclub@gmail.com
+We'll be covering a wide range of material, from how to create beautiful visualizations of your data, to some of the most popular and powerful statistical and machine learning algorithms.
+You'll find some of our materials from the Fall 2019 semester in the folder Old_Material. This semester you can expect a number of updated resources.
+
+<hr>
+## Weekly Syllabus:
+1. Curriculum Overview, Setting up your environment, and a brief intro to Python
+2. Data Visualization w/ Matplotlib and Streamlit (<a href="streamlit.io"> streamlit.io </a>)
+3. Intro to Regression
+4. Multiple Regression and How to avoid statistical pitfalls
+5. Logistic Regression (aka: Intro to machine learning)
+6. Feedforward Neural Networks
+7. Convolutional Neural Networks
+8. Clustering Techniques (K-Means, DBScan)
+9. Natural Language Processing
+10. Project Demo!
+ 
+If you ever have any questions about the material please reach out to us at:
+
+info@rucogsciclub.com
+OR
+rutgersdsbootcamp@gmail.com
