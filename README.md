@@ -1,9 +1,9 @@
 # Data Science Bootcamp
 ## A collaboration between Rutgers Cognitive Science and Statistics Clubs
-Welcome! This is a crash course in data science. 
+Welcome! This is a crash course in data science. Our goal is to give you the technical skills you need to stand out, make a difference, and feel confident enough to continue exploring on your own.
 
 We'll be covering a wide range of material, from how to create beautiful visualizations of your data, to some of the most popular and powerful statistical and machine learning algorithms.
-You'll find some of our materials from the Fall 2019 semester in the folder Old_Material. This semester you can expect a number of updated resources.
+You'll find some of our materials from the Fall 2019 semester in the folder "old material". This semester you can expect a number of updated resources.
 
 ## Weekly Syllabus:
 
@@ -21,5 +21,7 @@ You'll find some of our materials from the Fall 2019 semester in the folder Old_
 If you ever have any questions about the material please reach out to us at:
 
 info@rucogsciclub.com
+
 OR
+
 rutgersdsbootcamp@gmail.com
