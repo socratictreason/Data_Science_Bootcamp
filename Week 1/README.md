@@ -22,7 +22,7 @@ Once that completes, you can actually run any streamlit app by running:
 
 For example, if you want to run the app in this repository, you can run:
 
-`streamlit run https://raw.githubusercontent.com/rucogsciclub/Data_Science_Bootcamp/master/Week\ 1/app.py`
+`streamlit run https://raw.githubusercontent.com/rucogsciclub/Data_Science_Bootcamp/master/Week%201/app.py`
 
 To run a very cool demo of an image recognition network for self driving cars (found here: https://github.com/streamlit/demo-self-driving):
 
