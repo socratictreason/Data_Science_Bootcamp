@@ -1,5 +1,5 @@
-# Week Two - Let's Play Moneyball
-## Intro to Linear Regression
+# Week Two - Linear Regression
+## Let's Play Moneyball
 
 ![alt text](images/moneyball.gif)
 
